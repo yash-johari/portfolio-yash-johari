@@ -1136,7 +1136,7 @@ footer{
 
     #projects img[src="public/media/backgroundCode.png"]{
         width: 100%;
-        height: 280%;
+        height: 270%;
         position: absolute;
         object-fit: cover;
         z-index: 0;
