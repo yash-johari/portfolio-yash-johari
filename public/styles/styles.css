@@ -1054,7 +1054,7 @@ footer{
         box-shadow: none;
     }
     
-    /* #projects{
+    #projects{
         height: 300vh;
     }
 
@@ -1065,16 +1065,16 @@ footer{
         object-fit: cover;
         z-index: 0;
         filter: saturate(2) blur(1px);
-    } */
+    }
 
-    #projects{
+    /* #projects{
         height: 200vh;
     }
 
     #projects img[src="public/media/backgroundCode.png"]{
         width: 100%;
         height: 200%;
-    }
+    } */
 
     .projectsContainer{
         display: grid;
@@ -1121,16 +1121,16 @@ footer{
         font-size: 0.7rem;
     }
 
-    #projects{
+    /* #projects{
         height: 200vh;
     }
 
     #projects img[src="public/media/backgroundCode.png"]{
         width: 100%;
         height: 200%;
-    }
+    } */
 
-    /* #projects{
+    #projects{
         height: 200vh;
     }
 
@@ -1141,7 +1141,7 @@ footer{
         object-fit: cover;
         z-index: 0;
         filter: saturate(2) blur(1px);
-    } */
+    }
 
     .project button{
         font-size: 20px;
