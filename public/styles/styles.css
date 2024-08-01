@@ -1122,12 +1122,12 @@ footer{
     }
 
     #projects{
-        height: 100vh;
+        height: 50vh;
     }
 
     #projects img[src="public/media/backgroundCode.png"]{
         width: 100%;
-        height: 100%;
+        height: 50%;
     }
 
     /* #projects{
