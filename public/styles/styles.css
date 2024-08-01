@@ -1067,14 +1067,14 @@ footer{
         filter: saturate(2) blur(1px);
     } */
 
-    /* #projects{
-        height: 310vh;
+    #projects{
+        height: 200vh;
     }
 
     #projects img[src="public/media/backgroundCode.png"]{
         width: 100%;
-        height: 310%;
-    } */
+        height: 200%;
+    }
 
     .projectsContainer{
         display: grid;
