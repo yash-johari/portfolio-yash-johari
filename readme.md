@@ -20,7 +20,7 @@ The website features interactive elements implemented with JavaScript.
 
 ## Note
 
-As this project is built entirely by me, you might encounter some bugs or imperfections, especially since no framework was used. The website may not appear perfect on every browser. I appreciate your understanding and any feedback you might have.
+As this project is built entirely by me, you might encounter some bugs or imperfections, especially since no framework was used. The website may not appear perfect on every browser and every device. Also, I have tested this on multiple phones and I encountered that in some of the devices it is not appearing upto the mark, I am constantly trying to fix all the bugs right now. I appreciate your understanding and any feedback you might have.
 
 ## Future Plans
 
