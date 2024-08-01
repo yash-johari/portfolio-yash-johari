@@ -1121,14 +1121,14 @@ footer{
         font-size: 0.7rem;
     }
 
-    /* #projects{
-        height: 250vh;
+    #projects{
+        height: 320vh;
     }
 
     #projects img[src="public/media/backgroundCode.png"]{
         width: 100%;
-        height: 250%;
-    } */
+        height: 320%;
+    }
 
     /* #projects{
         height: 200vh;
