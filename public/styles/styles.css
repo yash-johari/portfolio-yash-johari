@@ -811,7 +811,7 @@ footer{
     } */
 
     #projects{
-        height: 180vh;
+        height: 200vh;
         /* background-color: black; */
     }
 
@@ -824,7 +824,7 @@ footer{
 
     #projects img[src="public/media/backgroundCode.png"]{
     width: 100%;
-    height: 180%;
+    height: 200%;
     position: absolute;
     object-fit: cover;
     z-index: 0;
@@ -880,7 +880,7 @@ footer{
 
 @media(max-width:700px){
     #education{
-        height: 120vh;
+        height: 130vh;
     }
 
     .edu{
@@ -942,7 +942,7 @@ footer{
     }
 
     #projects{
-        height: 200vh;
+        height: 230vh;
     }
 
     .project{
@@ -950,7 +950,7 @@ footer{
     }
 
     #projects img[src="public/media/backgroundCode.png"]{
-        height: 200%;
+        height: 230%;
     }
 
     .project button{
@@ -1043,28 +1043,37 @@ footer{
         width: 100%;
     }
 
-    #projects{
-        height: 310vh;
-    }
-
     .project{
         height: 40rem;
     }
-
+    
     .background{
         background-image: none;
         border: none;
         border: none;
         box-shadow: none;
     }
+    
+    /* #projects{
+        height: 300vh;
+    }
 
     #projects img[src="public/media/backgroundCode.png"]{
         width: 100%;
-        height: 310%;
+        height: 300%;
         position: absolute;
         object-fit: cover;
         z-index: 0;
         filter: saturate(2) blur(1px);
+    } */
+
+    #projects{
+        height: 320vh;
+    }
+
+    #projects img[src="public/media/backgroundCode.png"]{
+        width: 100%;
+        height: 320%;
     }
 
     .projectsContainer{
